@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:diamond_chestplate": 2,
+      "desolator:desolator": 2,
+      "minecraft:diamond_helmet": 2,
+      "minecraft:slime_ball": 32,
+      "minecraft:diamond_boots": 2,
+      "minecraft:iron_ingot": 3,
+      "minecraft:diamond_leggings": 2,
+      "minecraft:oak_button": 2
+    },
+    "minecraft:killed": {
+      "minecraft:slime": 31,
+      "minecraft:iron_golem": 1,
+      "minecraft:villager": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5963,
+      "minecraft:walk_one_cm": 21360,
+      "minecraft:mob_kills": 34,
+      "minecraft:damage_dealt": 2900,
+      "minecraft:play_time": 5963,
+      "minecraft:jump": 49,
+      "minecraft:time_since_death": 5963,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 3803,
+      "minecraft:inspect_dispenser": 2,
+      "minecraft:total_world_time": 7996,
+      "minecraft:fly_one_cm": 31591,
+      "minecraft:crouch_one_cm": 122,
+      "minecraft:sneak_time": 95
+    },
+    "minecraft:dropped": {
+      "desolator:desolator": 2
+    },
+    "minecraft:used": {
+      "minecraft:polished_andesite": 45,
+      "minecraft:villager_spawn_egg": 2,
+      "minecraft:oak_button": 2,
+      "minecraft:dispenser": 2,
+      "minecraft:netherite_axe": 7,
+      "desolator:desolator": 48
+    }
+  },
+  "DataVersion": 4903
+}

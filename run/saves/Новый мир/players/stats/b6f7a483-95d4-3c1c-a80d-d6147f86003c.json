@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "desolator:desolator": 1
+    },
+    "minecraft:killed": {
+      "minecraft:villager": 6
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1108,
+      "minecraft:time_since_rest": 3820,
+      "minecraft:walk_one_cm": 2507,
+      "minecraft:total_world_time": 6703,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 4113,
+      "minecraft:mob_kills": 6,
+      "minecraft:play_time": 3820,
+      "minecraft:damage_dealt": 1350,
+      "minecraft:jump": 28,
+      "minecraft:time_since_death": 3820,
+      "minecraft:drop": 1
+    },
+    "minecraft:used": {
+      "desolator:desolator": 14
+    },
+    "minecraft:picked_up": {
+      "minecraft:poppy": 2,
+      "desolator:desolator": 1,
+      "minecraft:slime_ball": 5
+    }
+  },
+  "DataVersion": 4903
+}
